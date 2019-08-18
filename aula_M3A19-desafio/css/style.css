@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+}
+
+.container {
+	background-image: url("../imagens/background.png");
+	/*background-repeat: no-repeat;*/
+	height: 348px;
+	width: 700px;
+	font-size: 40px;
+}
+
+.nome {
+	padding-top: 25px;
+	padding-left: 35px;
+}
+
+li {
+	list-style: none;
+	padding-left: 5px;
+	list-style-position: inside;
+}
+
+.item1 {
+	list-style-image: url("../imagens/Insta.png");
+}
+
+.item2 {
+	list-style-image: url("../imagens/Twitter.png");
+	list-style-position: inside;
+}
+
+.item3 {
+	list-style-image: url("../imagens/Youtube.png");
+}

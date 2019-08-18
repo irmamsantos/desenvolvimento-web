@@ -1,0 +1,27 @@
+body {
+	background-image: url("../fundos/tile.jpg");
+	background-repeat: repeat-y;
+	background-size: cover;
+}
+
+#paragrafos {
+	background-color: red;
+}
+
+.subDiv {
+	background-color: blue;
+}
+
+
+#principal {
+	color: brown;
+}
+
+#titulo {
+	color: blue;
+}
+
+.texto_verde {
+	color: green;
+}
+

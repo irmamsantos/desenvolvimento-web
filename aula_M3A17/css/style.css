@@ -1,0 +1,20 @@
+.links {
+	text-decoration: none;
+	color: #bc2035;
+	cursor: help;
+	/*background-color: #bc2035;*/
+	padding: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 10px;
+	border: 2px solid #bc2035;
+}
+
+.links:hover {
+	background: #bc2035;
+	color: white;
+}
+
+.links2:visited {
+	color:red;
+}
